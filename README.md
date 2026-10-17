@@ -55,7 +55,7 @@ Open [http://127.0.0.1:5000] in web browser.
 
 ## MLflow UI Results
 
-![MLflow UI Screenshot](./screenshot.png)
+![MLflow UI Screenshot](./mlflow%20results.png)
 
 ### Model Comparison Table
 
